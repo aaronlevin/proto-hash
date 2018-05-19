@@ -1,4 +1,4 @@
-mod xxx;
+mod descriptors;
 
 #[cfg(test)]
 mod tests {
