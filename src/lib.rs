@@ -1,4 +1,6 @@
-mod descriptors;
+extern crate protobuf;
+
+mod filedescriptorset;
 
 #[cfg(test)]
 mod tests {
